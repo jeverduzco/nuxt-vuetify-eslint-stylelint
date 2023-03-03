@@ -1,0 +1,33 @@
+{
+  "private": true,
+  "author": {
+    "name": "Jesús Verduzco",
+    "email": "jesus@verduzco.me"
+  },
+  "version": "1.0.0",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config-typescript": "^12.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.54.0",
+    "@typescript-eslint/parser": "^5.54.0",
+    "eslint": "^8.35.0",
+    "eslint-plugin-nuxt": "^4.0.0",
+    "eslint-plugin-vue": "^9.9.0",
+    "nuxt": "^3.2.3",
+    "stylelint": "^15.2.0",
+    "stylelint-config-recommended-vue": "^1.4.0",
+    "vite-plugin-eslint": "^1.8.1",
+    "vite-plugin-vuetify": "^1.0.2"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.1.96",
+    "sass": "^1.58.3",
+    "vuetify": "^3.1.7"
+  }
+}

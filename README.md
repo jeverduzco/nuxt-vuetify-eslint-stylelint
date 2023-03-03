@@ -1,6 +1,6 @@
 # Nuxt 3 + Vuetify 3 + Eslint + Stylelint Template
 
-[Live Demo](https://orange-field-07feef810.2.azurestaticapps.net) for this template
+[Live Demo](https://kind-grass-05dca2510.2.azurestaticapps.net/) for this template
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
